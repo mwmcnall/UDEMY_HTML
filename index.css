@@ -1,0 +1,15 @@
+.container {
+    height: 50px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    width: 200px;
+}
+
+.fit-picture {
+    width: 200px;
+}
